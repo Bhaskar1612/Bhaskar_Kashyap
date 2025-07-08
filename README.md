@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bhaskar Kashyap</h1>
 
 <p align="center">
-  🚀 Passionate Developer | 💻 ML & DevOps Enthusiast | 🎓 CSE Undergrad @ IIIT Delhi
+  🚀 Passionate Developer | 💻 ML & DevOps Enthusiast | 🎓 CS Undergrad @ IIIT Delhi
 </p>
 
 ---
