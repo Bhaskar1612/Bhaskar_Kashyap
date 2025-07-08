@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **BTech CSE student at IIIT Delhi '26**
+- 🎓 **BTech CS student at IIIT Delhi '26**
 - 🧪 Exploring **Machine Learning**, **Computer Vision**, and **AI**
 - 🔧 Enthusiast of **DevOps**, **Cloud Infrastructure**, and **Automation**
 - 🧠 Constant learner & open-source contributor
